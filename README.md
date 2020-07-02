@@ -1,5 +1,5 @@
 # jetbrains-agent-latest
-jetbrains全家桶永久激活，不需要修改host。完美破解！共享给各个程序员兄弟使用。
+jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。
 
 
 
