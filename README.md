@@ -11,14 +11,14 @@ jetbrains全家桶永久激活，不需要修改host。完美破解！共享给�
 #### 破解方法2
 
 下载本文的jetbrains-agent-latest.zip，在能进入软件的前提下，直接将压缩包拖进软件就可以加载补丁了！一定要拖入右边的工作区，而不是左边项目结构区！
-![](https://uploader.shimo.im/f/LlVZB1chTFY3I42o!thumbnail)
+![](screenshot/1.png)
 
-![](https://uploader.shimo.im/f/WCEwEpD7RPsgXsmT!thumbnail)
+![](screenshot/2.png)
 
-![](https://uploader.shimo.im/f/q7O4bZRsbwUH4uY4!thumbnail)
+![](screenshot/3.png)
 
 #### 切记
 * 如果之前在lib目录下已经有了jar文件，请一定要删除它！
-![](https://uploader.shimo.im/f/ctVCS1IGvawQL8Xn!thumbnail)
+![](screenshot/4.png)
 
 * 不需要修改host！！！！
