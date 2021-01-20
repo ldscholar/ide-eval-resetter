@@ -1,10 +1,12 @@
+本来只是Fork别人的没想到Star和Fork这么多，原作者很久没有更新了，替换一个激活方案，最新idea有效 2021-01-20
+
 0x1. 如何安装
 1). 插件市场安装：
 在Settings/Preferences... -> Plugins 内手动添加第三方插件仓库地址：https://plugins.zhile.io
 搜索：IDE Eval Reset插件进行安装。如果搜索不到请注意是否做好了上一步？网络是否通畅？
 插件会提示安装成功。
 2). 下载安装：
-点击这个链接(v2.1.12)下载插件的zip包（macOS可能会自动解压，然后把zip包丢进回收站）
+下载插件的zip包（macOS可能会自动解压，然后把zip包丢进回收站）
 通常可以直接把zip包拖进IDE的窗口来进行插件的安装。如果无法拖动安装，你可以在Settings/Preferences... -> Plugins 里手动安装插件（Install Plugin From Disk...）
 插件会提示安装成功。
 0x2. 如何使用
